@@ -25,5 +25,5 @@ The current version only uses a configuration.js file to list out the locations 
 * debug - debug level (not configured in current version)
 * log - log location (not configured in current version)
  
-## Configuration ##
+## More Information ##
 If you have more questions, feel free to hit me up here matthew.barben@anvilation.com
