@@ -1,2 +1,2 @@
 # createPDF
-Node Application to Create PDF, used LibreOffice Capabilty
+Node Application to Create PDF, using the LibreOffice Capabilty
