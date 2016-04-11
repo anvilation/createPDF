@@ -1,6 +1,6 @@
 # createPDF
 
-Have you ever been stuf on a project needing a PDF render and didnt want to mess around with Trail Software? This is a little node.js utility to Create PDF documents based upon various files times (DOC, PPT, XLS, HTML). 
+Have you ever been stuck on a project needing a PDF render and didnt want to mess around with trail software? This is a little node.js utility to Create PDF documents based upon various files times (DOC, PPT, XLS, HTML). 
 
 This uses the functionality within Libre Office https://www.libreoffice.org/
 
