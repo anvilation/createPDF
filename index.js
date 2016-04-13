@@ -90,7 +90,10 @@ var outputWatcher =  chokidar.watch(config.output, {
     let index = 0
     for (index = 0; index < stateLength; index++) {
         let isDocument = false;
-        fileName === state[index].fileName ? removeDocument(state[index].folderPath) : isDocument  
+        fileName === state[index].fileName ? (
+            removeDocument(state[index].folderPath) ,
+            state.splice(index, 1) // remove ellement from array
+        ): isDocument  
         
     }
   
