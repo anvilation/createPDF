@@ -69,7 +69,7 @@ inputWatch
    
 })
  .on('error', error => {
-     logger.log('info', `An error occured with ${error}`)
+     logger.log('error', `An error occured with ${error}`)
  })
  .on('ready', () => {
      logger.log('info', `Start Monitoring Input Folder`)
@@ -102,7 +102,7 @@ var outputWatcher =  chokidar.watch(config.output, {
     logger.log('debug', `${folderPath} has been removed`)
 })
  .on('error', error => {
-     logger.log('info', `An error occured with ${error}`)
+     logger.log('error', `An error occured with ${error}`)
      
  })
  .on('ready', () => {
