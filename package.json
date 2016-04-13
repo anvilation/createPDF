@@ -1,10 +1,11 @@
 {
   "name": "createpdf",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create PDF usiing the LibreOffice Functionality",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "monitor" : "node index.js"
   },
   "repository": {
     "type": "git",
