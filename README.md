@@ -24,6 +24,3 @@ The current version only uses a configuration.js file to list out the locations 
 * output - locaiton where documents will be rendered to
 * debug - debug level (not configured in current version)
 * log - log location (not configured in current version)
- 
-## More Information ##
-If you have more questions, feel free to hit me up here matthew.barben@anvilation.com
